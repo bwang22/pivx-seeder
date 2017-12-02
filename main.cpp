@@ -397,7 +397,7 @@ extern "C" void* ThreadStats(void*) {
   return nullptr;
 }
 
-static const string mainnet_seeds[] = {"ec2-54-159-73-159.compute-1.amazonaws.com", ""};
+static const string mainnet_seeds[] = {"seed.poswdnsseed.com", ""};
 static const string testnet_seeds[] = {""};
 static const string *seeds = mainnet_seeds;
 
