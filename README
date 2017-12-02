@@ -4,7 +4,7 @@ posw-seeder
 This software is forked from bitcoin-seeder and modified for POSW network.
 
 Original version resides at https://github.com/sipa/bitcoin-seeder
-POSW version resides at https://github.com/bwang22/pivx-seeder
+POSW version resides at https://github.com/bwang22/posw-seeder
 
 POSW-seeder is a crawler for the Bitcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
